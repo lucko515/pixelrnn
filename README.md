@@ -27,7 +27,7 @@ The whole code is inside **pixel_rnn.ipynb**. I haven't moved helper functions t
 
 To run this project you will need some software, like Anaconda, which provides support for running .ipynb files (Jupyter Notebook).
 
-After making sure you have that, you can run from a terminal or cmd next lines (Example  for Keras version):
+After making sure you have that, you can run from a terminal or cmd next lines:
 
 `ipython notebook pixel_rnn.ipynb`
 
